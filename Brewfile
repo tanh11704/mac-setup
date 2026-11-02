@@ -52,7 +52,6 @@ cask "anki"
 cask "google-chrome"
 cask "zalo"
 cask "microsoft-teams"
-cask "anydesk"
 
 # ----- Tiện ích hệ thống -----
 cask "raycast"
